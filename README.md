@@ -20,3 +20,4 @@ created the Flask and JSON file for the server and frontend file
 Completed the frontend for the Boston Dataset.
 
 The preview of the frontend: 
+![BOSTON HOUSE PREDICTION DEMO](/demo.gif)

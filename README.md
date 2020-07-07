@@ -19,3 +19,4 @@ created the Flask and JSON file for the server and frontend file
 ### update 4:
 Completed the frontend for the Boston Dataset.
 
+The preview of the frontend: 
